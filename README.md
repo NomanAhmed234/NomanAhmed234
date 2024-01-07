@@ -1,7 +1,7 @@
 ### Hey Guys 👋, I'm NomanAhmed234 
 
 <br />
-👋 Hello, I'm [Your Name], a passionate software engineering student at SMIT. I have a strong foundation in mobile application development, specializing in Android using Java, which I honed through comprehensive training at NAVTTC.
+👋 Hello, I'm Noman Ahmed, a passionate software engineering student at SMIT. I have a strong foundation in mobile application development, specializing in Android using Java, which I honed through comprehensive training at NAVTTC.
 
 🚀 Additionally, I'm actively exploring the exciting world of Metaverse through the Governor House Free IT Training Program. As a dedicated learner, I thrive on staying updated with the latest technologies and trends in the ever-evolving field of IT.
 
