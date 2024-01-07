@@ -1,7 +1,14 @@
 ### Hey Guys 👋, I'm NomanAhmed234 
 
 <br />
-Hey Guys 👋, I'm Noman Ahmed, An undergradute Software Engineering student and Development Lead 🙍🏽‍♂️ at DSC UIT having skills and expertise in Python, Data Science and Flutter 💫. Currently I'm the head of the Flutter Teaching Faculty In massive mass training Programming that caters to Students from Pakistan And India, which amounts to a total of 15000+ students ⚡️. Right now I'm working to become a Full stack developer. 💻👨‍💻
+👋 Hello, I'm [Your Name], a passionate software engineering student at SMIT. I have a strong foundation in mobile application development, specializing in Android using Java, which I honed through comprehensive training at NAVTTC.
+
+🚀 Additionally, I'm actively exploring the exciting world of Metaverse through the Governor House Free IT Training Program. As a dedicated learner, I thrive on staying updated with the latest technologies and trends in the ever-evolving field of IT.
+
+👨‍💻 My GitHub repositories showcase my journey as a software enthusiast, featuring projects, assignments, and contributions that reflect my commitment to continuous learning and practical application of my skills.
+
+🌐 Let's connect and collaborate on innovative projects that make a difference in the world of technology!
+
 
   <img align="left" alt="GIF" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
   
@@ -19,18 +26,22 @@ Hey Guys 👋, I'm Noman Ahmed, An undergradute Software Engineering student and
 
 <br />
 
-### Languages and Tools:
+### 🔧 Technologies & Tools
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/qt/qt.png"></code>
-<code><img height="20" src="https://pandas.pydata.org/static/img/pandas_secondary.svg"></code>
-<code><img height="20" src="https://matplotlib.org/_static/logo2_compressed.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/css/css.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+#### Programming Languages
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+
+#### IDEs & Tools
+![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-F37626?style=flat&logo=jupyter&logoColor=white)
+![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white)
+![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)
+
 
 ## &#x1f4c8; GitHub Stats
 
