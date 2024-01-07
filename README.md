@@ -27,7 +27,7 @@
 
 ## 📫 Connect with me
 
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin)
+- [LinkedIn]([https://www.linkedin.com/in/your-linkedin](https://www.linkedin.com/in/nomanpb234/))
 - [Twitter](https://twitter.com/your-twitter)
 
 Feel free to explore my repositories and don't hesitate to reach out. Let's connect and code together! 🚀
