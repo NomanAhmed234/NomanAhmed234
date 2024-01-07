@@ -1,7 +1,7 @@
-### Hey Guys 👋, I'm [Bilal Rehman.!](https://bilal--rehman.web.app/) 
+### Hey Guys 👋, I'm NomanAhmed234 
 
 <br />
-Hey Guys 👋, I'm Bilal Rehman, An undergradute Software Engineering student and Development Lead 🙍🏽‍♂️ at DSC UIT having skills and expertise in Python, Data Science and Flutter 💫. Currently I'm the head of the Flutter Teaching Faculty In massive mass training Programming that caters to Students from Pakistan And India, which amounts to a total of 15000+ students ⚡️. Right now I'm working to become a Full stack developer. 💻👨‍💻
+Hey Guys 👋, I'm Noman Ahmed, An undergradute Software Engineering student and Development Lead 🙍🏽‍♂️ at DSC UIT having skills and expertise in Python, Data Science and Flutter 💫. Currently I'm the head of the Flutter Teaching Faculty In massive mass training Programming that caters to Students from Pakistan And India, which amounts to a total of 15000+ students ⚡️. Right now I'm working to become a Full stack developer. 💻👨‍💻
 
   <img align="left" alt="GIF" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
   
@@ -9,16 +9,11 @@ Hey Guys 👋, I'm Bilal Rehman, An undergradute Software Engineering student an
 
 ### Connect with me:
 
-<a href="https://bilalrehman08.medium.com/">
-  <img align="left" alt="Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
-</a>
-<a href="https://www.linkedin.com/in/bilalrehman08/">
+
+<a href="https://www.linkedin.com/in/nomanpb234/">
   <img align="left" alt="LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://www.instagram.com/muhammaad_bilal_rehman/">
-  <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://www.facebook.com/bilal.rehman.1291">
+
+<a href="https://www.facebook.com/profile.php?id=100088689564423">
   <img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 
