@@ -43,13 +43,9 @@
 ![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)
 
 
-## &#x1f4c8; GitHub Stats
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=BilalRehman08&count_private=true&show_icons=true&theme=dracula&&include_all_commits=true" width=60% />
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=BilalRehman08&show_icons=true&locale=en&layout=compact&theme=dracula" width=60% />
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=BilalRehman08&theme=dracula"  width=60% />
 
 
  
