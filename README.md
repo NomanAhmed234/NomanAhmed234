@@ -1,4 +1,4 @@
-👋 Hello, I'm [Your Name], a passionate software engineering student at SMIT. I have a strong foundation in mobile application development, specializing in Android using Java, which I honed through comprehensive training at NAVTTC.
+👋 Hello, I'm NomanAhmed234, a passionate software engineering student at SMIU. I have a strong foundation in mobile application development, specializing in Android using Java, which I honed through comprehensive training at NAVTTC.
 
 🚀 Additionally, I'm actively exploring the exciting world of Metaverse through the Governor House Free IT Training Program. As a dedicated learner, I thrive on staying updated with the latest technologies and trends in the ever-evolving field of IT.
 
@@ -21,4 +21,13 @@
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)
+## 📈 GitHub Stats
 
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide=contribs,prs)
+
+## 📫 Connect with me
+
+- [LinkedIn](https://www.linkedin.com/in/your-linkedin)
+- [Twitter](https://twitter.com/your-twitter)
+
+Feel free to explore my repositories and don't hesitate to reach out. Let's connect and code together! 🚀
