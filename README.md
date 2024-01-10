@@ -5,6 +5,7 @@
 👨‍💻 My GitHub repositories showcase my journey as a software enthusiast, featuring projects, assignments, and contributions that reflect my commitment to continuous learning and practical application of my skills.
 
 🌐 Let's connect and collaborate on innovative projects that make a difference in the world of technology!
+![Coder](https://img.shields.io/badge/Coder-000000?style=for-the-badge&logo=github&logoColor=white)
 
 ### 🔧 Technologies & Tools
 
