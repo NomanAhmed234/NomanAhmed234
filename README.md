@@ -6,7 +6,7 @@
 
 🌐 Let's connect and collaborate on innovative projects that make a difference in the world of technology!
 ![Coder](https://img.shields.io/badge/Coder-000000?style=for-the-badge&logo=github&logoColor=white)
-
+![Project 1 GIF]()
 ### 🔧 Technologies & Tools
 
 #### Programming Languages
@@ -34,8 +34,11 @@
 
 ## 📈 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide=contribs,prs)
+---
 
+### :fire: My Stats :
+https://github-readme-streak-stats.herokuapp.com/?user=NomanAhmed234
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=NomanAhmed234&theme=dark&background=000000)](https://git.io/streak-stats)
 ## 📫 Connect with me
 
 - [LinkedIn]([https://www.linkedin.com/in/your-linkedin](https://www.linkedin.com/in/nomanpb234/))
