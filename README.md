@@ -4,8 +4,7 @@
 
 👨‍💻 My GitHub repositories showcase my journey as a software enthusiast, featuring projects, assignments, and contributions that reflect my commitment to continuous learning and practical application of my skills.
 
-![NomanAhmed234's Stats](https://github-readme-stats.vercel.app/api?username=NomanAhmed234&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-![NomanAhmed234's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NomanAhmed234&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+
 
 🌐 Let's connect and collaborate on innovative projects that make a difference in the world of technology!
 ![Coder](https://img.shields.io/badge/Coder-000000?style=for-the-badge&logo=github&logoColor=white)
@@ -40,8 +39,8 @@
 ---
 
 ### :fire: My Stats :
-https://github-readme-streak-stats.herokuapp.com/?user=NomanAhmed234
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=NomanAhmed234&theme=dark&background=000000)](https://git.io/streak-stats)
+![NomanAhmed234's Stats](https://github-readme-stats.vercel.app/api?username=NomanAhmed234&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![NomanAhmed234's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NomanAhmed234&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 ## 📫 Connect with me
 
 - [LinkedIn]([https://www.linkedin.com/in/your-linkedin](https://www.linkedin.com/in/nomanpb234/))
