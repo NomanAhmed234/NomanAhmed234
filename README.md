@@ -41,7 +41,7 @@
 ### :fire: My Stats :
 ![NomanAhmed234's Stats](https://github-readme-stats.vercel.app/api?username=NomanAhmed234&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 ![NomanAhmed234's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NomanAhmed234&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
-[![GitHub Streak](https://streak-stats.demolab.com/NomanAhmed234=DenverCoder1)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?NomanAhmed234=NomanAhmed234&theme=vue-dark)](https://git.io/streak-stats)
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?NomanAhmed234=DenverCoder1&theme=vue-dark" alt="GitHub Streak" /></a>
 ## 📫 Connect with me
 
