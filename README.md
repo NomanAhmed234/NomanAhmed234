@@ -41,7 +41,7 @@
 ### :fire: My Stats :
 ![NomanAhmed234's Stats](https://github-readme-stats.vercel.app/api?username=NomanAhmed234&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 ![NomanAhmed234's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NomanAhmed234&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=NomanAhmed234&theme=blood-dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=NomanAhmed234&theme=blood-dark&hide_total_contributions=true&hide_current_streak=true&hide_longest_streak=true)](https://git.io/streak-stats)
 ## 📫 Connect with me
 
 - [LinkedIn]([https://www.linkedin.com/in/your-linkedin](https://www.linkedin.com/in/nomanpb234/))
